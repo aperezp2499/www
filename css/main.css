@@ -99,6 +99,39 @@ textarea {
    ========================================================================== */
 body{
   font-family: 'Didact Gothic', sans-serif;
+  background: #d2dbd2;
+}
+
+.home img{
+  width: 100%;
+  max-width: 100%;
+}
+
+.drawingcircle{
+  margin-top: 100px;
+}
+
+.hometext{
+  color: #c87b4a;
+  font-size: 32px;
+}
+
+.footer{
+  background: #5f8684;
+}
+
+.bio img{
+  width: 100%
+  max-width: 100%;
+}
+
+.draw img{
+  width: 100%
+  max-width: 100%;
+}
+
+.drawingcircle{
+  margin-right: 100px
 }
 /* ==========================================================================
    Helper classes
